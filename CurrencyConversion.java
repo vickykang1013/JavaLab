@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * @author Vicky Kang
- * @since 06 October 2025
+ * @since 03 October 2025
  */
 
 public class CurrencyConversion {
